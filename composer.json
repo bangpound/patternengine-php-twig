@@ -19,8 +19,8 @@
 		"source":         "https://github.com/pattern-lab/patternengine-php-twig/releases"
 	},
 	"autoload": {
-		"psr-0": {
-			"PatternLab\\PatternEngine\\Twig": "src/"
+		"psr-4": {
+			"PatternLab\\PatternEngine\\Twig\\": "src/"
 		}
 	},
 	"require": {
