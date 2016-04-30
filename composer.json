@@ -29,6 +29,9 @@
 		"twig/twig":        "1.*"
 	},
 	"extra": {
+		"branch-alias": {
+			"dev-master": "0.7.x-dev"
+		},
 		"patternlab": {
 			"config": {
 				"lineageMatch": "{%([ ]+)?include( |\\()[&quot;\\&#039;]([A-Za-z0-9-_]+)[&quot;\\&#039;](\\))?(.*)%}",
