@@ -1,0 +1,11 @@
+{
+    "name": "pattern-lab/patternengine-twig",
+    "version": "1.0",
+    "bindings": {
+        "3c773070-2850-435a-b1b6-bfced1164676": {
+            "_class": "Puli\\Discovery\\Binding\\ClassBinding",
+            "class": "PatternLab\\PatternEngine\\Twig\\PatternEngineRule",
+            "type": "PatternLab\\PatternEngine\\Rule"
+        }
+    }
+}
